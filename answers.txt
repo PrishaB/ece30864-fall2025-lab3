@@ -7,3 +7,8 @@ The product owner is responsible for communication between customers and the tea
 3. The first meeting is the sprint planning meeting. This meeting happens right before the sprint starts and you discuss what's going to happen during the sprint and the stories in the backlog are moved to current sprint and are assigned to people.
 The second meeting is the daily scrum or standup meeting. This happens regularly throughout the sprint and during them, the team discusses their progress. They also decide what changes need to be made for the rest of the sprint.
 The third meeting is the sprint retrospective meeting. This meeting happens at the end of the sprint and it closes the sprint. Here, team will discus the sprint and move any incomplete stories to backlog.
+
+4. In Jira, an epic is a large body of work that is then broken down into smaller items. 
+A story is a user-centric feature that is completable in a sprint. It is one of the items that go under an epic.
+A task is a general piece of work that might not deliver direct user value but contributes to the project.
+A bug is a defect that prevents or impairs software functionality and is something the team will need to fix in order to progress.
