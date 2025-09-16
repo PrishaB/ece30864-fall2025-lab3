@@ -1,0 +1,2 @@
+1. Two pros of Agile development are that it's iterative and you get immediate feedback at the end of each sprint. This allows you to perfect each stage before moving on to the next step and if you realize there is an issue with a previous step, you can go back and fix it.
+Two cons of Agile development are that, because of its iterative nature, it might take a while to complete the project and teams might face burnout due to excessive customer review.
