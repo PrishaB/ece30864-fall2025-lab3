@@ -3,3 +3,7 @@ Two cons of Agile development are that, because of its iterative nature, it migh
 
 2. The scrum master is responsible for managing the team of software developers. They split up and delegate tasks by managing all SCRUM related tasks.
 The product owner is responsible for communication between customers and the team. They set direction for team and handle releases and stakeholder management.
+
+3. The first meeting is the sprint planning meeting. This meeting happens right before the sprint starts and you discuss what's going to happen during the sprint and the stories in the backlog are moved to current sprint and are assigned to people.
+The second meeting is the daily scrum or standup meeting. This happens regularly throughout the sprint and during them, the team discusses their progress. They also decide what changes need to be made for the rest of the sprint.
+The third meeting is the sprint retrospective meeting. This meeting happens at the end of the sprint and it closes the sprint. Here, team will discus the sprint and move any incomplete stories to backlog.
